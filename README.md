@@ -4,7 +4,7 @@
     <title>New proBa</title>
     <meta charset="utf-8">
     <meta name="keywords" content="html and css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="icon" href="https://youtube.com/favicon.ico">
     
 </head>
